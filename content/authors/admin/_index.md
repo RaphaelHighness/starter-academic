@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a PhD student at the Department of Computer Science at City University of Hong Kong (advised by Prof. Weitao Xu). Also, I'm a member of S2MC Lab. Before that, I worked as a Deep Learning Algorithm Assistant Engineer for Bright Dream Robotics Co., Ltd. (Country Garden) from November 2019 to July 2020. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I obtained my MSc degree in Electronic Engineering from the Hong Kong University of Science & Technology in November 2019 and BEng degree in Optoelectronic Information Science and Engineering from the Harbin Engineering University in August 2018, respectively.
