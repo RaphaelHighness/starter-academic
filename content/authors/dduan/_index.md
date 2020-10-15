@@ -4,7 +4,7 @@ title: DUAN Di
 
 # Username (this should match the folder name)
 authors:
-- admin
+- dduan
 
 # Is this the primary user of the site?
 superuser: true
